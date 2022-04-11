@@ -1,7 +1,7 @@
 - 👋 Hi, I’m woosis
-- 👀 I’m interested in games and hacking
-- 🌱 I’m currently learning godot
-- 💞️ I’m looking to collaborate on game stuff
+- 👀 I’m interested in games and hacking 
+- 🌱 I’m currently learning godot and doing gamejams
+- 💞️ I’m looking to collaborate on game stuff 
 
 <!---
 woosis/woosis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
